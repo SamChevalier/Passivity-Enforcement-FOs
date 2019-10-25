@@ -1,5 +1,5 @@
 # Passivity-FOs
-Code associated with the paper "Leveraging Passivity Enforcement for Locating the Sources of Forced Oscillations". This repository contains a folder ("Optimization_Functions") with the functions primarily used to solve the inference problems and perform some plotting. It also contains 5 files:
+Code associated with the paper "A Passivity Interpretation of Energy-Based ForcedOscillation Source Location Methods". This repository contains a folder ("Optimization_Functions") with the functions primarily used to solve the inference problems and perform some plotting. It also contains 5 files:
 
 1) "Gen_Params.mat" - This is the set of generator parameters (machine + AVR) used in the testing.
 
